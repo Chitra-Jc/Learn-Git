@@ -1,6 +1,6 @@
-#Learn about Git and GitHub
-This is my learning repo
+# Learn about Git and GitHub
+This is my learning repository
 
-...javascript
-console.log('Hllo World');
-...
+```javascript
+console.log('Hello World');
+```
